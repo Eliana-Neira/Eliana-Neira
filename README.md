@@ -25,7 +25,7 @@ En este perfil encontrarás proyectos realizados durante mi formación y otros d
 
 ### Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio" />
 
 </div>
 
