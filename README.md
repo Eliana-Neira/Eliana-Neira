@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eliana%20Neira&fontSize=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:A91079&height=180&section=header&text=Eliana%20Neira&fontSize=45&fontColor=ffffff)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eliana-neira-898099240/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:neiraeliana2406@gmail.com)
