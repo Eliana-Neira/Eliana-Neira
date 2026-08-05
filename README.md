@@ -2,8 +2,8 @@
 
 # Eliana Neira
 
-[![LinkedIn](https://www.linkedin.com/in/eliana-neira-898099240/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eliana-neira-898099240/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:neiraeliana2406@gmail.com)
 
 
 ---
