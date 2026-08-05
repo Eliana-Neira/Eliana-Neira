@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eliana-Neira/Eliana-Neira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eliana Neira
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Eliana-Neira&style=flat-square&color=grey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+¡Hola! 👋 Soy Eliana, desarrolladora en formación enfocada en frontend. Me gusta construir interfaces claras y funcionales, y estoy sumando conocimientos de backend para completar mi perfil full-stack.
+
+---
+
+## Pila
+
+### Interfaz
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite" />
+
+### Backend y datos
+
+<img
