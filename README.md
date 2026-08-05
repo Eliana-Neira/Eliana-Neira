@@ -17,7 +17,7 @@ En este perfil encontrarás proyectos realizados durante mi formación y otros d
 
 ### Interfaz
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
 ### Backend y datos
 
