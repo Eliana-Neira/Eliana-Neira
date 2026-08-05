@@ -15,10 +15,29 @@ En este perfil encontrarás proyectos realizados durante mi formación y otros d
 
 ## Pila
 
-### Interfaz
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
-### Backend y datos
+### Backend
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+
+### Bases de datos
+
+<img src="https://skillicons.dev/icons?i=mssql" />
+
+### Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</div>
+
+### Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
 
 
