@@ -19,13 +19,11 @@ En este perfil encontrarás proyectos realizados durante mi formación y otros d
 
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
-### Backend
+### Backend y datos
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet," /> ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### Bases de datos
 
-<img src="https://skillicons.dev/icons?i=mssql" />
 
 ### Herramientas
 
