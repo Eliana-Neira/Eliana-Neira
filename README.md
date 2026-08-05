@@ -19,7 +19,7 @@ En este perfil encontrarás proyectos realizados durante mi formación y otros d
 
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
-### Backend y datos
+### Backend
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
