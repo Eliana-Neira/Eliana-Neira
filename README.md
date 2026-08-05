@@ -2,15 +2,15 @@
 
 # Eliana Neira
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://www.linkedin.com/in/eliana-neira-898099240/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Eliana-Neira&style=flat-square&color=grey)
+
 
 ---
+👋 ¡Hola! Soy Eli 
 
-¡Hola! 👋 Soy Eliana, desarrolladora en formación enfocada en frontend. Me gusta construir interfaces claras y funcionales, y estoy sumando conocimientos de backend para completar mi perfil full-stack.
-
+Soy estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo web y disfruto crear proyectos que me permitan seguir aprendiendo y mejorando mis habilidades.
+En este perfil encontrarás proyectos realizados durante mi formación y otros desarrollados de manera personal, donde aplico y sigo fortaleciendo mis conocimientos.
 ---
 
 ## Pila
