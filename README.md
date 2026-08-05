@@ -10,7 +10,7 @@
 Hola! Soy Eli
 
 Soy estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo web y disfruto crear proyectos que me permitan seguir aprendiendo y mejorando mis habilidades.
-En este perfil encontrarás proyectos realizados durante mi formación y otros desarrollados de manera personal, donde aplico y sigo fortaleciendo mis conocimientos.
+En este perfil encontrarás proyectos realizados durante mi formación y otros desarrollados de manera personal.
 ---
 
 ## Pila
