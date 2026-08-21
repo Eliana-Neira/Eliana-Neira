@@ -11,7 +11,9 @@
 
 ---
 
-<h3 align="center">👋 ¡Hola! Soy Eli</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=%C2%A1Hola%21+Soy+Eli+%F0%9F%91%8B;Estudiante+de+Desarrollo+de+Software;Apasionada+por+el+desarrollo+web" />
+</p>
 
 <p align="center">
 Soy estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el<br/>
@@ -46,11 +48,26 @@ formación y otros desarrollados de manera personal.
 
 ---
 
+<h3 align="center">🏆 Trofeos</h3>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Eliana-Neira&theme=algolia&no-frame=true&margin-w=10&column=7" />
+</p>
+
+<h3 align="center">🐍 Actividad</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Eliana-Neira/Eliana-Neira/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center"><i>(Este gráfico se activa solo después de configurar la GitHub Action indicada más abajo 👇)</i></p>
+
+---
+
 <div align="center">
 
 💜 Gracias por visitar mi perfil 💜
 
+<img src="https://komarev.com/ghpvc/?username=Eliana-Neira&color=22c55e&style=flat" alt="visitor badge"/>
+
 </div>
-
-
-
