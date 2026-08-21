@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eliana%20Neira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:22C55E&height=180&section=header&text=Eliana%20Neira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-neira-898099240/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neiraeliana2406@gmail.com)
-
 
 </div>
 
@@ -48,7 +47,7 @@ formación y otros desarrollados de manera personal.
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Neira&layout=compact&theme=radical&hide_border=true" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Neira&layout=compact&theme=merko&hide_border=true" width="50%"/>
 </p>
 
 ---
