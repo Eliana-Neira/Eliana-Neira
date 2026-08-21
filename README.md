@@ -46,15 +46,6 @@ formación y otros desarrollados de manera personal.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
----
-
-<h3 align="center">🏆 Trofeos</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Eliana-Neira&theme=algolia&no-frame=true&margin-w=10&column=7" />
-</p>
-
-<h3 align="center">🐍 Actividad</h3>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Eliana-Neira/Eliana-Neira/output/github-contribution-grid-snake.svg" />
