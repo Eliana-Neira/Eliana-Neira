@@ -1,38 +1,70 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:A91079&height=180&section=header&text=Eliana%20Neira&fontSize=45&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eliana%20Neira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eliana-neira-898099240/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:neiraeliana2406@gmail.com)
+<br/>
 
-
----
-Hola! Soy Eli
-
-Soy estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo web y disfruto crear proyectos que me permitan seguir aprendiendo y mejorando mis habilidades.
-En este perfil encontrarás proyectos realizados durante mi formación y otros desarrollados de manera personal.
----
-
-## Pila
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-### Bases de datos
-
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### Herramientas
-
-<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-neira-898099240/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neiraeliana2406@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eliana-Neira)
 
 </div>
 
+---
+
+<h3 align="center">👋 ¡Hola! Soy Eli</h3>
+
+<p align="center">
+Soy estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el<br/>
+desarrollo web y disfruto crear proyectos que me permitan seguir aprendiendo y<br/>
+mejorando mis habilidades. En este perfil encontrarás proyectos realizados durante mi<br/>
+formación y otros desarrollados de manera personal.
+</p>
+
+---
+
+<h3 align="center">🛠️ Stack</h3>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+<h4 align="center">Bases de datos</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<h4 align="center">Herramientas</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+---
+
+<h3 align="center">📊 Estadísticas</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Eliana-Neira&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliana-Neira&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Neira&layout=compact&theme=radical&hide_border=true" width="50%"/>
+</p>
+
+---
+
+<div align="center">
+
+💜 Gracias por visitar mi perfil 💜
+
+</div>
 
 
 
