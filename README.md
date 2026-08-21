@@ -46,12 +46,6 @@ formación y otros desarrollados de manera personal.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Neira&layout=compact&theme=merko&hide_border=true" width="50%"/>
-</p>
-
----
-
 <div align="center">
 
 💜 Gracias por visitar mi perfil 💜
