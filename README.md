@@ -51,14 +51,10 @@ formación y otros desarrollados de manera personal.
 <img src="https://raw.githubusercontent.com/Eliana-Neira/Eliana-Neira/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center"><i>(Este gráfico se activa solo después de configurar la GitHub Action indicada más abajo 👇)</i></p>
-
 ---
 
 <div align="center">
 
 💜 Gracias por visitar mi perfil 💜
-
-<img src="https://komarev.com/ghpvc/?username=Eliana-Neira&color=22c55e&style=flat" alt="visitor badge"/>
 
 </div>
