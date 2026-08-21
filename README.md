@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-neira-898099240/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neiraeliana2406@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eliana-Neira)
+
 
 </div>
 
@@ -46,13 +46,6 @@ formación y otros desarrollados de manera personal.
 </p>
 
 ---
-
-<h3 align="center">📊 Estadísticas</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Eliana-Neira&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliana-Neira&theme=radical&hide_border=true" width="48%"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Neira&layout=compact&theme=radical&hide_border=true" width="50%"/>
