@@ -47,9 +47,6 @@ formación y otros desarrollados de manera personal.
 </p>
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Eliana-Neira/Eliana-Neira/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
