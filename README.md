@@ -34,9 +34,7 @@ formación y otros desarrollados de manera personal.
 <h4 align="center">Backend</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
 </p>
 
 <h4 align="center">Bases de datos</h4>
